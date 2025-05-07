@@ -1,8 +1,8 @@
 import telebot
 from telebot.types import InlineKeyboardMarkup, InlineKeyboardButton
 
-TOKEN = "PUT_YOUR_BOT_TOKEN_HERE"
-bot = telebot.TeleBot(TOKEN)
+TOKEN = "8196612850:AAGbcphDaSY0SNSOXaJdxllTGQ57TKweeQ4"
+bot = telebot.TeleBot(8196612850:AAGbcphDaSY0SNSOXaJdxllTGQ57TKweeQ4)
 
 results = []  # قائمة لتخزين أسماء اللاعبين الفائزين
 
